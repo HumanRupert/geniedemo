@@ -140,3 +140,7 @@ cython_debug/
 
 
 todo.md
+.vscode
+cache/
+*.cache
+zipline/
