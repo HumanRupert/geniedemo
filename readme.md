@@ -22,7 +22,6 @@ Visualize the efficient frontier and the optimal portfolios.
 - Python script(s) implementing the portfolio optimization models, risk management strategies, and overlay strategy.
 - Documentation explaining your approach, assumptions made, and any additional insights.
 - Any additional files or plots that support your implementation and analysis.
-- Please enclose your files in a .zip file and return it to federico@genieai.tech within one week.
 
 ## Note:
 - You can use any relevant libraries for data retrieval, preprocessing, optimization, risk management, and visualization.
